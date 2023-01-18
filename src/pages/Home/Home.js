@@ -138,7 +138,7 @@ export default function Home(props) {
                 <div className="bottom"></div>
               </div>
               <div>
-                <SpotifyPlayer token={accessToken} />
+                {/* <SpotifyPlayer token={accessToken} /> */}
                 {/* <Player accessToken={accessToken} trackUri={playingTrack} /> */}
               </div>
             </div>
